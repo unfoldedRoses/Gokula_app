@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "300617417565",
+    "project_id": "gokula-ff00c",
+    "storage_bucket": "gokula-ff00c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300617417565:android:da4a270976f3ce84c09eb4",
+        "android_client_info": {
+          "package_name": "com.example.gokula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300617417565-scfg63hsc4d7dlvtiftucqc2aub6245h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gokula",
+            "certificate_hash": "d93edf0f4692cf2f50ebce11848ce650ec8b92a9"
+          }
+        },
+        {
+          "client_id": "300617417565-gcu117ujfd9asajdtu5obdo4v3cn0d9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCInrdO_BwD3W3f-4VCZko8grl4Vljr1PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300617417565-gcu117ujfd9asajdtu5obdo4v3cn0d9b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "300617417565-srf4ormf6l6p747099medm0d313uv7ne.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gokula.gokula-app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300617417565:android:028fbcd7162c470ac09eb4",
+        "android_client_info": {
+          "package_name": "com.gokula.gokula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300617417565-roi19vcelm6ivju5kvm5onc78k4npjad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gokula.gokula",
+            "certificate_hash": "d93edf0f4692cf2f50ebce11848ce650ec8b92a9"
+          }
+        },
+        {
+          "client_id": "300617417565-gcu117ujfd9asajdtu5obdo4v3cn0d9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCInrdO_BwD3W3f-4VCZko8grl4Vljr1PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300617417565-gcu117ujfd9asajdtu5obdo4v3cn0d9b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "300617417565-srf4ormf6l6p747099medm0d313uv7ne.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gokula.gokula-app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
